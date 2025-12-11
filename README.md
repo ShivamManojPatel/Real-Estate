@@ -84,6 +84,6 @@ Acknowledgement
 Author
 -------------------------------------
 **Shivam Patel** <br>
-[Uka Tarsadia University](www.utu.ac.in) | [Babu Madhav Institute of Information Technology](www.utu.ac.in/bmiit) <br>
+Uka Tarsadia University | Babu Madhav Institute of Information Technology<br>
 LinkedIn: https://www.linkedin.com/in/shivampatel19/
 
